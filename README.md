@@ -11,3 +11,7 @@ Xively legacy feeds:
 * Oxford: Thames - Downstream at Iffley Lock - https://xively.com/feeds/88615
 * Oxford: Thames - Upstream at Iffley Lock - https://xively.com/feeds/88611
 * Oxford: Cherwell - Upstream at Kings Mill - https://xively.com/feeds/88610
+
+Heather Lang's Iffley Lock graph
+* http://void.printf.net/~heth/iffley/
+
