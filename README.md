@@ -15,3 +15,10 @@ Xively legacy feeds:
 Heather Lang's Iffley Lock graph
 * http://void.printf.net/~heth/iffley/
 
+Geospatial files from Environment Agency
+* http://www.geostore.com/environment-agency/WebStore?xml=environment-agency/xml/ogcDataDownload.xml
+In geojson/topojson
+* https://github.com/JeniT/boundaries/tree/master/river-catchments
+
+Other brilliant stuff: 
+* https://github.com/JeniT/boundaries
